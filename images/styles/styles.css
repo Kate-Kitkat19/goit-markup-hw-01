@@ -1,0 +1,21 @@
+.swiper{
+  background-color: aquamarine;
+  max-width: 100vw;
+  height: auto;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.swiper-slide{
+  display: block;
+  width: 100%;
+  outline: 2px solid red;
+}
+
+img{
+  text-align: center;
+  display: block;
+  max-width: 100%;
+}
